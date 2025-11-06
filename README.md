@@ -40,14 +40,14 @@ A powerful, colorful, and user-friendly port scanning tool for network security 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cybrahimi-scan.git
-cd cybrahimi-scan
+git clone https://github.com/abderrahimhb20/Cybrahimi-scan.git
+cd Cybrahimi-scan
 ```
 
 ### Make it Executable (Linux/macOS)
 
 ```bash
-chmod +x cybrahimi-scan.py
+chmod +x Cybrahimi-scan.py
 ```
 
 ## 🚀 Usage
@@ -55,13 +55,13 @@ chmod +x cybrahimi-scan.py
 ### Basic Usage
 
 ```bash
-python3 cybrahimi-scan.py
+python3 Cybrahimi-scan.py
 ```
 
 or (on Linux/macOS):
 
 ```bash
-./cybrahimi-scan.py
+./Cybrahimi-scan.py
 ```
 
 ### Interactive Mode
