@@ -13,7 +13,7 @@
 
 A powerful, colorful, and user-friendly port scanning tool for network security analysis.
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Legal](#-legal-disclaimer) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) 
 
 </div>
 
